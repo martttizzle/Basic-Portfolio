@@ -1,0 +1,36 @@
+
+body {
+    background-image: url("../images/snow.png");
+    /*background-color: red;*/
+}
+
+.hdnv {
+    background-color: #ffffff;
+    height: 100px;
+ 
+    
+}
+
+.hdnv header h1 {
+    background-color: #4aaaa5;
+    display: inline-block;
+    margin:  0px 775px 0px 185px;
+    padding: 50px 50px 0px 50px;
+    height: 50px;
+    color:#ffffff;
+    font-size: 30px;
+    
+    
+    
+}
+
+.hdnv header nav {
+    background-color: rgb(153, 153, 194);
+    display: inline-block; 
+    text-align: right;
+   
+}
+.hdnv header nav a {
+    padding: 10px;
+   
+}
