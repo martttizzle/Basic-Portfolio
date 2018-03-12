@@ -1,7 +1,7 @@
 
-html, body {
+ body {
     background-image: url("../images/snow.png");
-    height: 100%;
+    
     /*background-color: red;*/
 }
 
@@ -14,10 +14,10 @@ html, body {
 }
 
  header h1 {
-
+    font-family: Georgia , Times, 'Times New Roman', serif;
     background-color: #11948d;
     display: inline-block;
-    margin:  0px 765px 0px 105px;
+    margin:  0px 330px 0px 340px;
     padding: 50px 50px 30px 50px;
     height: 40px;
     color: #ffffff;
@@ -34,11 +34,42 @@ html, body {
     padding: 10px;
     text-decoration: none;
     color: #777777;
+    font-size: 20px;
    
+}
+
+.abt {
+
+    background-color: #ffffff;
+    width: 900px ;
+    height: 400px; 
+    margin: 30px 665px 0px 340px;
+    
+}
+
+.abt h1 {
+    font-family: Georgia , Times, 'Times New Roman', serif;
+    color:#4aaaa5;
+    font-size: 40px; 
+    border-bottom: solid 4px #dddddd;
+    padding: 20px 20px 20px 50px;
+}
+
+.abt section article {
+    float: right;
+    font-size: 15px; 
+    
+}
+
+.abt img {
+     float: left;
+     padding: 10px 10px 10px 50px;
 }
 
 footer {
     background-color: #666666;
-    display: table-row;
-    height: 20px;
+    text-align: center; 
+    float: clear;
+    height: 50px;
+    border-top: solid 6px #4aaaa5; 
 }
