@@ -1,0 +1,14 @@
+.container {
+    max-width: 960px;
+    position: relative;
+    margin: auto;
+}
+
+.box1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: steelblue;
+    width: 960px;
+    height: 600px;
+}
