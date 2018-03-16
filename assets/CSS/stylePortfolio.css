@@ -1,14 +1,47 @@
+body {
+
+    background-image: url("../images/snow.png");
+}
+
+
 .container {
     max-width: 960px;
     position: relative;
     margin: auto;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
 }
 
 .box1 {
     position: absolute;
     top: 0px;
     left: 0px;
-    background-color: steelblue;
+    background-color: #ffffff;
     width: 960px;
     height: 600px;
+}
+
+.Hang {
+    position: absolute;
+}
+
+.RPG {
+    position: absolute;
+    
+}
+
+.Trivia {
+    
+    position: absolute;
+}
+
+.Rutgers {
+    
+    position: absolute;
+    
+}
+
+.RPS {
+    position: absolute;
+    
 }
